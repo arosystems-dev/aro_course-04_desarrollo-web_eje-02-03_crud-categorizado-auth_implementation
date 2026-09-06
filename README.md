@@ -4,6 +4,8 @@
 
 Clonar el proyecto y seguir los mismos pasos establecidos para su instalación, los cuales se encuentran detallados en el Ejercicio 02: CRUD de Artículos Categorizados
 
+El presente proyecto ya cuenta con el sistema de autenticación instalado, configurado y funcional. Sin embargo, a continuación se detallan los pasos realizados para incorporar dicho sistema al Proyecto 02: CRUD de Artículos Categorizados, el cual inicialmente no contaba con funcionalidades de autenticación.
+
 ## 2. Instalar el sistema de autenticación
 
 Debido a la simplicidad de los ejercicios y a que el proyecto utiliza **Bootstrap** como framework de CSS, se instalará el paquete **Laravel UI**, que proporciona el scaffolding necesario para implementar las funcionalidades básicas de autenticación.
